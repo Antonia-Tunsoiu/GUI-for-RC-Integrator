@@ -1,5 +1,5 @@
 # GUI-for-RC-Integrator
-This interactive simulation tool was developed as part of the Computer-Aided Graphics course during my 2nd year of college. The application provides a Graphical User Interface (GUI) to visualize the behavior of an RC Integrator Circuit in real-time.
+This MATLAB-based interactive simulation tool was developed as part of the Computer-Aided Graphics course during my 2nd year of college. The application provides a Graphical User Interface (GUI) to visualize the behavior of an RC Integrator Circuit in real-time.
 
 Features:
 

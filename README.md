@@ -1,14 +1,22 @@
 # GUI-for-RC-Integrator
 This MATLAB-based interactive simulation tool was developed as part of the Computer-Aided Graphics course during my 2nd year of college. The application provides a Graphical User Interface (GUI) to visualize the behavior of an RC Integrator Circuit in real-time.
 
-Features:
 
-`Real-time Tuning:` Adjust Resistance ($R$) and Capacitance ($C$) to see the immediate effect on the time constant ($\tau$).
+**Project Date:** 2024 – 2025  
+**Status:** Completed
 
-`Signal Customization:` Modify input frequency, amplitude, duty cycle, and DC offset.
+**Features:**
 
-`Dynamic Visualization:` Dual-plot display showing the input square wave and the resulting voltage across the capacitor ($V_c$).
+* `Real-time Tuning:` Adjust Resistance ($R$) and Capacitance ($C$) to see the immediate effect on the time constant ($\tau$).
 
-`Interactive Components:` Includes sliders, popup menus, and checkboxes for a user-friendly experience.
+* `Signal Customization:` Modify input frequency, amplitude, duty cycle, and DC offset.
 
-`Validation:` Built-in error handling to ensure the integration condition ($RC > T$) is met.
+* `Dynamic Visualization:` Dual-plot display showing the input square wave and the resulting voltage across the capacitor ($V_c$).
+
+* `Interactive Components:` Includes sliders, popup menus, and checkboxes for a user-friendly experience.
+
+* `Validation:` Built-in error handling to ensure the integration condition ($RC > T$) is met.
+
+
+
+
